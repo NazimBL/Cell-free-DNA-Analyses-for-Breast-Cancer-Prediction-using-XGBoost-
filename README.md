@@ -1,2 +1,2 @@
 # Cell-free-DNA-Analyses-for-Breast-Cancer-Prediction-using-XGBoost-
- XGBoost (Extreme Gradient Boosting) cfDNA analyses
+In This study we applied XGBoost (Extreme Gradient Boosting), a new and powerful algorithm which is also very useful for data interpretation and feature importance analyses. We included the mean coverage across the whole genome of 67 patients with breast cancer and 67 healthy individuals from raw bigwig files  as an input. We trained and validated our models using 5-fold cross validation with samples from different research papers. The model achieved a validation accuracy of 80\%, with an overall area under the curve (AUC) of 87\%.
